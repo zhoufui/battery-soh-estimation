@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+.python-packages/
+.ipynb_checkpoints/
+
+# Raw third-party datasets should be downloaded from the original providers.
+data/raw/
+*.zip
+*.mat
+*.xlsx
+
+# Local documents and editor files
+*.docx
+*.pdf
+/Manuscript_Draft_EN.md
+/Cover_Letter_Draft_EN.md
+/Highlights_EN.md
+~$*
+.DS_Store
+Thumbs.db
+
+# Optional local logs
+*.log

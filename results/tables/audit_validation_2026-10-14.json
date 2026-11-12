@@ -1,0 +1,7 @@
+{
+  "calce_cycles": 1657,
+  "control_metric_rows": 60,
+  "prediction_rows": 90225,
+  "independently_recomputed_metric_groups": 60,
+  "checks": "phase signs; unique cycle keys; split coverage and separation; shared test rows; prediction labels; recomputed metrics; full-feature benchmark agreement"
+}

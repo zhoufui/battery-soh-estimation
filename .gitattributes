@@ -1,0 +1,3 @@
+# Preserve byte-for-byte inputs and scripts recorded in the experiment manifest.
+*.csv -text
+*.py -text

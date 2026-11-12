@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">NASA to CALCE Target-Domain Calibration</text>
+<line x1="78" y1="490" x2="925" y2="490" stroke="#111827" stroke-width="1.2"/>
+<line x1="78" y1="58" x2="78" y2="490" stroke="#111827" stroke-width="1.2"/>
+<line x1="78" y1="490.0" x2="925" y2="490.0" stroke="#e5e7eb"/>
+<text x="68" y="494.0" text-anchor="end" font-family="Arial" font-size="12">0.048</text>
+<line x1="78" y1="403.6" x2="925" y2="403.6" stroke="#e5e7eb"/>
+<text x="68" y="407.6" text-anchor="end" font-family="Arial" font-size="12">0.081</text>
+<line x1="78" y1="317.2" x2="925" y2="317.2" stroke="#e5e7eb"/>
+<text x="68" y="321.2" text-anchor="end" font-family="Arial" font-size="12">0.115</text>
+<line x1="78" y1="230.8" x2="925" y2="230.8" stroke="#e5e7eb"/>
+<text x="68" y="234.8" text-anchor="end" font-family="Arial" font-size="12">0.149</text>
+<line x1="78" y1="144.4" x2="925" y2="144.4" stroke="#e5e7eb"/>
+<text x="68" y="148.4" text-anchor="end" font-family="Arial" font-size="12">0.182</text>
+<line x1="78" y1="58.0" x2="925" y2="58.0" stroke="#e5e7eb"/>
+<text x="68" y="62.0" text-anchor="end" font-family="Arial" font-size="12">0.216</text>
+<line x1="78.0" y1="490" x2="78.0" y2="496" stroke="#111827"/>
+<text x="78.0" y="514" text-anchor="middle" font-family="Arial" font-size="12">0%</text>
+<line x1="219.2" y1="490" x2="219.2" y2="496" stroke="#111827"/>
+<text x="219.2" y="514" text-anchor="middle" font-family="Arial" font-size="12">5%</text>
+<line x1="360.3" y1="490" x2="360.3" y2="496" stroke="#111827"/>
+<text x="360.3" y="514" text-anchor="middle" font-family="Arial" font-size="12">10%</text>
+<line x1="642.7" y1="490" x2="642.7" y2="496" stroke="#111827"/>
+<text x="642.7" y="514" text-anchor="middle" font-family="Arial" font-size="12">20%</text>
+<line x1="925.0" y1="490" x2="925.0" y2="496" stroke="#111827"/>
+<text x="925.0" y="514" text-anchor="middle" font-family="Arial" font-size="12">30%</text>
+<polyline points="78.0,366.3 219.2,447.4 360.3,416.5 642.7,406.5 925.0,388.6" fill="none" stroke="#a16207" stroke-width="2.3"/>
+<circle cx="78.0" cy="366.3" r="3.5" fill="#a16207"/>
+<circle cx="219.2" cy="447.4" r="3.5" fill="#a16207"/>
+<circle cx="360.3" cy="416.5" r="3.5" fill="#a16207"/>
+<circle cx="642.7" cy="406.5" r="3.5" fill="#a16207"/>
+<circle cx="925.0" cy="388.6" r="3.5" fill="#a16207"/>
+<rect x="93" y="68" width="13" height="13" fill="#a16207"/>
+<text x="112" y="80" font-family="Arial" font-size="12">GradientBoosting</text>
+<polyline points="78.0,371.1 219.2,459.2 360.3,432.2 642.7,432.0 925.0,422.3" fill="none" stroke="#0f766e" stroke-width="2.3"/>
+<circle cx="78.0" cy="371.1" r="3.5" fill="#0f766e"/>
+<circle cx="219.2" cy="459.2" r="3.5" fill="#0f766e"/>
+<circle cx="360.3" cy="432.2" r="3.5" fill="#0f766e"/>
+<circle cx="642.7" cy="432.0" r="3.5" fill="#0f766e"/>
+<circle cx="925.0" cy="422.3" r="3.5" fill="#0f766e"/>
+<rect x="258" y="68" width="13" height="13" fill="#0f766e"/>
+<text x="277" y="80" font-family="Arial" font-size="12">LightGBM</text>
+<polyline points="78.0,319.2 219.2,449.5 360.3,437.3 642.7,433.7 925.0,420.1" fill="none" stroke="#b91c1c" stroke-width="2.3"/>
+<circle cx="78.0" cy="319.2" r="3.5" fill="#b91c1c"/>
+<circle cx="219.2" cy="449.5" r="3.5" fill="#b91c1c"/>
+<circle cx="360.3" cy="437.3" r="3.5" fill="#b91c1c"/>
+<circle cx="642.7" cy="433.7" r="3.5" fill="#b91c1c"/>
+<circle cx="925.0" cy="420.1" r="3.5" fill="#b91c1c"/>
+<rect x="423" y="68" width="13" height="13" fill="#b91c1c"/>
+<text x="442" y="80" font-family="Arial" font-size="12">RandomForest</text>
+<polyline points="78.0,185.9 219.2,175.6 360.3,165.9 642.7,139.5 925.0,108.5" fill="none" stroke="#7c3aed" stroke-width="2.3"/>
+<circle cx="78.0" cy="185.9" r="3.5" fill="#7c3aed"/>
+<circle cx="219.2" cy="175.6" r="3.5" fill="#7c3aed"/>
+<circle cx="360.3" cy="165.9" r="3.5" fill="#7c3aed"/>
+<circle cx="642.7" cy="139.5" r="3.5" fill="#7c3aed"/>
+<circle cx="925.0" cy="108.5" r="3.5" fill="#7c3aed"/>
+<rect x="588" y="68" width="13" height="13" fill="#7c3aed"/>
+<text x="607" y="80" font-family="Arial" font-size="12">SVR_RBF</text>
+<polyline points="78.0,369.3 219.2,452.7 360.3,417.8 642.7,416.9 925.0,403.8" fill="none" stroke="#2563eb" stroke-width="2.3"/>
+<circle cx="78.0" cy="369.3" r="3.5" fill="#2563eb"/>
+<circle cx="219.2" cy="452.7" r="3.5" fill="#2563eb"/>
+<circle cx="360.3" cy="417.8" r="3.5" fill="#2563eb"/>
+<circle cx="642.7" cy="416.9" r="3.5" fill="#2563eb"/>
+<circle cx="925.0" cy="403.8" r="3.5" fill="#2563eb"/>
+<rect x="753" y="68" width="13" height="13" fill="#2563eb"/>
+<text x="772" y="80" font-family="Arial" font-size="12">XGBoost</text>
+<text x="480.0" y="542" text-anchor="middle" font-family="Arial" font-size="14">Calibration fraction of target CALCE cycles</text>
+<text x="24" y="280.0" transform="rotate(-90 24,280.0)" text-anchor="middle" font-family="Arial" font-size="14">RMSE</text>
+</svg>
